@@ -10,7 +10,7 @@
     "react-dom": "^16.10.2",
     "react-infinite-scroll-component": "^4.5.3",
     "react-multi-carousel": "^2.2.9",
-    "react-scripts": "3.2.0"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
